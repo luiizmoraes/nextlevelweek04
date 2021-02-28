@@ -9,7 +9,7 @@ Para construção deste projeto utilizamos as seguintes tecnologias:
 
 Também foi utilizado o **NPM** para instalção do **Yarn** para criação do projeto inicial.
 <br/><br/>
-Ele consiste basicamente em uma ferramenta de auxílio ao usuário que deseja executar a Técnica Pomodoro (TANCREDI, 2021), onde executa-se alguma atividade com foco total durante 25 minutos e em seguida, faz uma pausa de 5 minutos, iniciando novamente o ciclo logo em seguida.
+Ele consiste basicamente em uma ferramenta de auxílio ao usuário que deseja executar a [**Técnica Pomodoro**](https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm), onde executa-se alguma atividade com foco total durante 25 minutos e em seguida, faz uma pausa de 5 minutos, iniciando novamente o ciclo logo em seguida.
 
 ### Ok, mas como o Move.it funciona?
 * No caso do Move.it, ao término dos 25 minutos, dentro dos 5 minutos de intervalo, você deve executar algum exercício de movimentação leve ou de relaxamento que será mostrado em tela;
@@ -28,7 +28,7 @@ Abaixo temos algumas imagens para mostrar as telas que encontramos dentro do apl
 
 ### Certo, mas como vou saber quando o tempo de foco irá finalizar?
 
-Para contornar este problema, adicionamos ao projeto uma funcionalidade para notificar o usuário em sua área de trabalho. Veja na imagem abaixo a notificação no Windows 10, por exemplo:
+Para contornar este problema, adicionamos ao projeto uma funcionalidade para notificar visualmente e sonoramente o usuário em sua área de trabalho. Veja na imagem abaixo a notificação no Windows 10, por exemplo:
 
 ![image](https://user-images.githubusercontent.com/50239444/109435009-db1da180-79f6-11eb-9a73-baaa0fe2abc9.png)
 <br />
