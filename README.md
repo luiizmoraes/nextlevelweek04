@@ -21,11 +21,9 @@ Ele consiste basicamente em uma ferramenta de auxílio ao usuário que deseja ex
 
 Abaixo temos algumas imagens para mostrar as telas que encontramos dentro do aplicativo:
 
--> <img src="https://user-images.githubusercontent.com/50239444/109434575-b3c5d500-79f4-11eb-8d54-449966733cde.png" width="400px" /> -> <img src="https://user-images.githubusercontent.com/50239444/109434600-d6f08480-79f4-11eb-9e04-7cb6ee63eee0.png" width="400px" />
-
--> <img src="https://user-images.githubusercontent.com/50239444/109434618-ed96db80-79f4-11eb-86cf-85bd1c69a8d5.png" width="400px" /> -> <img src="https://user-images.githubusercontent.com/50239444/109434634-ff787e80-79f4-11eb-976c-978f7dcc7d35.png" width="400px" />
-
--> <img src="https://user-images.githubusercontent.com/50239444/109434650-14eda880-79f5-11eb-9a0f-34deb1122a76.png" width="400px" />
+-> <img src="https://user-images.githubusercontent.com/50239444/109434575-b3c5d500-79f4-11eb-8d54-449966733cde.png" width="47%" /> -> <img src="https://user-images.githubusercontent.com/50239444/109434600-d6f08480-79f4-11eb-9e04-7cb6ee63eee0.png" width="47%" />
+-> <img src="https://user-images.githubusercontent.com/50239444/109434618-ed96db80-79f4-11eb-86cf-85bd1c69a8d5.png" width="47%" /> -> <img src="https://user-images.githubusercontent.com/50239444/109434634-ff787e80-79f4-11eb-976c-978f7dcc7d35.png" width="47%" />
+-> <img src="https://user-images.githubusercontent.com/50239444/109434650-14eda880-79f5-11eb-9a0f-34deb1122a76.png" width="47%" />
 
 ### Certo, mas como vou saber quando o tempo de foco irá finalizar?
 
@@ -38,4 +36,4 @@ Para contornar este problema, adicionamos ao projeto uma funcionalidade para not
 >#### :mag: Observações em relação ao projeto
 >
 >Apesar desta primeira versão estar bem simplificada, meu objetivo é melhorar ela com alguns toques pessoais.
->Outro detalhe em relação ao conteúdo apresentado neste **#NLW04**, especificamente na trilha de React JS, é que foi meu primeiro contato que tive com React JS, Next.js, CSS Modules e o uso de variáveis de contexto. Achei simplesmente sensacional e com certeza irá agregar na vida profissional!
+>Outro detalhe em relação ao conteúdo apresentado neste **#NLW04**, especificamente na trilha de React JS, é que foi meu primeiro contato que tive com React JS, Next.js, CSS Modules e o uso de variáveis de Context API. Achei simplesmente sensacional e com certeza irá agregar na vida profissional!
