@@ -38,4 +38,4 @@ Para contornar este problema, adicionamos ao projeto uma funcionalidade para not
 >#### :mag: Observações em relação ao projeto
 >
 >Apesar desta primeira versão estar bem simplificada, meu objetivo é melhorar ela com alguns toques pessoais.
->Outro detalhe em relação ao conteúdo apresentado neste **#NLW04**, especificamente na trilha de React JS, é que foi meu primeiro contato que tive com React JS (trabalhando com >componentização), Next.js, CSS Modules e o uso de variáveis de contexto. Achei simplesmente sensacional e com certeza irá agregar na vida profissional!
+>Outro detalhe em relação ao conteúdo apresentado neste **#NLW04**, especificamente na trilha de React JS, é que foi meu primeiro contato que tive com React JS, Next.js, CSS Modules e o uso de variáveis de contexto. Achei simplesmente sensacional e com certeza irá agregar na vida profissional!
