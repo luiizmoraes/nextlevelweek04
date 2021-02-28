@@ -5,7 +5,8 @@ Este foi o projeto base desenvolvido na trilha de React JS, durante a semana do 
 Para construção deste projeto utilizamos as seguintes tecnologias:
 
 
-<img src="https://user-images.githubusercontent.com/50239444/109435198-12408280-79f8-11eb-91a4-62776a456b06.png" width="32px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/50239444/109435200-12d91900-79f8-11eb-9fcd-db237c28c72d.png" width="32px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/50239444/109435201-1371af80-79f8-11eb-8920-c80c79a86bbe.png" width="32px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/50239444/109435202-1371af80-79f8-11eb-9763-cc2fb8f2b236.png" width="32px" />
+<img src="https://user-images.githubusercontent.com/50239444/109435198-12408280-79f8-11eb-91a4-62776a456b06.png" width="32px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/50239444/109435200-12d91900-79f8-11eb-9fcd-db237c28c72d.png" width="32px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/50239444/109435201-1371af80-79f8-11eb-8920-c80c79a86bbe.png" width="32px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/50239444/109435202-1371af80-79f8-11eb-9763-cc2fb8f2b236.png" width="32px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/50239444/109435885-80d30f80-79fb-11eb-9229-27fc6f24cbf2.png" width="32px" />
+
 
 Também foi utilizado o **NPM** para instalção do **Yarn** para criação do projeto inicial.
 <br/><br/>
